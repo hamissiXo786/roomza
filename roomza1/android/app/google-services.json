@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277441656107",
+    "project_id": "roomza-a8b5a",
+    "storage_bucket": "roomza-a8b5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277441656107:android:0ca90f9a5ee48984ae816e",
+        "android_client_info": {
+          "package_name": "com.mycompany.roomza1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYOwn8kiDqHSD-PZQkzec-Du0fAykDevc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
